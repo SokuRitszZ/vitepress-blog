@@ -16,7 +16,7 @@
 
 以下是一张简单的 UML 图。
 
-![nestjs-app-pipeline](./assets/nestjs-app-pipeline.png)
+![nestjs-app-pipeline](assets/nestjs-app-pipeline.png)
 
 ## 行动
 

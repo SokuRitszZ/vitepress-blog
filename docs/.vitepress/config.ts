@@ -24,7 +24,8 @@ export default defineConfig({
         {
           text: '记录',
           items: [
-            item('Startup Using MacOS', '/blog/record/mac-hajime')
+            item('Startup Using MacOS', '/blog/record/mac-hajime'),
+            item('Personal Eslint', '/blog/record/personal-eslint'),
           ]
         }
       ]

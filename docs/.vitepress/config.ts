@@ -16,9 +16,15 @@ export default defineConfig({
     sidebar: {
       '/blog/': [
         {
-          text: '技术相关',
+          text: '技术',
           items: [
-            item('Simple Nest.js App CICD', '/blog/simple-nestjs-cicd')
+            item('Simple Nest.js App CICD', '/blog/tech/simple-nestjs-cicd')
+          ]
+        },
+        {
+          text: '记录',
+          items: [
+            item('Startup Using MacOS', '/blog/record/mac-hajime')
           ]
         }
       ]

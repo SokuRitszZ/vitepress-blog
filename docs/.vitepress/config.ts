@@ -18,7 +18,8 @@ export default defineConfig({
         {
           text: '技术',
           items: [
-            item('Simple Nest.js App CICD', '/blog/tech/simple-nestjs-cicd')
+            item('Simple Nest.js App CICD', '/blog/tech/simple-nestjs-cicd'),
+            item('Soku Game Best Bundle Config', '/blog/tech/soku-game-bundle')
           ]
         },
         {
